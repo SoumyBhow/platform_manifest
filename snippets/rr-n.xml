@@ -24,7 +24,7 @@
   <project path="frameworks/base" name="android_frameworks_base" remote="rr-n" />
   <project path="packages/apps/Settings" name="Resurrection_packages_apps_Settings" remote="rr-n" />
   <project path="external/skia" name="external_skia" remote="rr-n" />
-  <project path="art" name="art" remote="rr" />
+  <project path="art" name="art" remote="rr-n" />
   <project path="frameworks/native" name="frameworks_native" remote="rr-n" />
   <project path="system/core" name="system_core" remote="rr-n" />
   <project path="external/google" name="android_external_google" remote="rr" />
